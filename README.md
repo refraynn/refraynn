@@ -34,7 +34,7 @@ Most of my projects have been lost to time—more work will be uploaded here as 
 
 ## Visual Art
 I've been a 3D artist in different forms for several years now. I've taken courses, both in-person and online, at various institutions. I also do graphic design and other visual arts.
-*Most* of my art will be uploaded to my [BlueSky](https://bsky.app/profile/refraynn.bsky.social), but I am also working on creating a portfolio website to hopefully replace this README.
+*Most* of my art will be uploaded to my [BlueSky](https://bsky.app/profile/refraynn.dev), but I am also working on creating a portfolio website to hopefully replace this README.
 I also did all of the graphics and logos for [Harmony Software](https://github.com/Harmony-Software).
 
 ## Odd Jobs
