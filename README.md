@@ -34,7 +34,7 @@ Most of my projects have been lost to time—more work will be uploaded here as 
 
 ## Visual Art
 I've been a 3D artist in different forms for several years now. I've taken courses, both in-person and online, at various institutions. I also do graphic design and other visual arts.
-*Most* of my art will be uploaded to my [BlueSky](https://bsky.app/profile/refraynn.dev), but I am also working on creating a portfolio website to hopefully replace this README.
+*Most* of my art will be uploaded to my [BlueSky](https://bsky.app/profile/refraynn.dev).
 I also did all of the graphics and logos for [Harmony Software](https://github.com/Harmony-Software).
 
 ## Odd Jobs
@@ -55,5 +55,4 @@ For a complete overview, you can find my ROBLOX developer page [here](https://cr
  
 ##
 
-This information is likely incomplete, since most of my career has not been shared publicly. To solve this, I will likely be purchasing my own domain to host my portfolio in its entirety, whether it is technical projects that link to repositories or any art that I do. I'll make sure to update this page with redirect to that site if that happens. Thank you!
-
+This information is likely incomplete, since most of my career has not been shared publicly. I'll make sure to update this page as much as possible, provided I remember to do so. Very scatter-brained!
